@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { BrowserRouter, Routes, Route, Link, useNavigate, useParams } from "react-router-dom";
 import './App.css';
 
-const API = "http://localhost:4000/api";
+const API = "https://movie-ticket-booking-backend-2.onrender.com/api";
 const getToken = () => localStorage.getItem("token");
 
 // Helper function to handle API responses
