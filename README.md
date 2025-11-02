@@ -20,18 +20,20 @@ A full-stack web app for booking movie tickets, built with **React**, **Node.js 
 ## ⚙️ **Run Locally**
 
 ### 🖥️ Backend
-
+```bash
 cd backend
 npm install
 node server.js
 Runs at: http://localhost:4000
+```
 
 ### 💻 Frontend
-
+```bash
 cd frontend
 npm install
 npm start
 Runs at: http://localhost:3000
+```
 
 ### Update API in frontend:
 const API = "https://movie-ticket-booking-backend.onrender.com/api";
