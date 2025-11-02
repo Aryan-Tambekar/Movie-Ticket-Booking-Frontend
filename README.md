@@ -6,7 +6,7 @@ A full-stack web app for booking movie tickets, built with **React**, **Node.js 
 
 ## 🚀 **Live Links**
 - 🌐 **Frontend:** [https://movie-ticket-booking-frontend-lo92.onrender.com](https://movie-ticket-booking-frontend-lo92.onrender.com)  
-- ⚙️ **Backend:** [https://movie-ticket-booking-backend.onrender.com](https://movie-ticket-booking-backend.onrender.com)
+- ⚙️ **Backend:** [https://movie-ticket-booking-backend-2.onrender.com](https://movie-ticket-booking-backend-2.onrender.com)
 
 ---
 
