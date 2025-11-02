@@ -37,8 +37,10 @@ Runs at: http://localhost:3000
 
 ### Update API in frontend:
 const API = "https://movie-ticket-booking-backend.onrender.com/api";
+
 🛠️ Deployment (Render)
 Backend
+```bash
 Build Command: npm install
 
 Start Command: node server.js
@@ -46,13 +48,16 @@ Start Command: node server.js
 Environment Variable:
 
 JWT_SECRET=yourkey
+```
+
 Frontend
+```
 Add to package.json:
 "homepage": "."
 Build Command: npm run build
 
 Publish Directory: build
-
+```
 ✨ Features
 👤 User Registration & Login (JWT Auth)
 
