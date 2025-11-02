@@ -67,7 +67,6 @@ Publish Directory: build
 
 📖 Booking History
 
-📱 Responsive UI
 
 👨‍💻 Author
 Aryan Tambekar
